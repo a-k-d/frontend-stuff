@@ -84,6 +84,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [smallworld](http://mikefowler.me/smallworld.js/) - A small utility for generating a small world
 - [topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology
 - [turf](http://turfjs.org/) - A modular geospatial engine
+- [mapbox] (https://www.mapbox.com) - Mapbox is a mapping platform for developers
 
 ### Tables
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Vanilla plugin to display large data sets
@@ -187,6 +188,8 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [mustache](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [nunjucks](http://mozilla.github.io/nunjucks/) - A rich and powerful templating language
 - [paperclip.js](http://paperclipjs.com/) - Reactive DOM template engine built for speed and extensibility
+- [jade] (http://jade-lang.com) - Jade is a terse and simple templating language with a strong focus on performance and powerful features.
+- [dust] (http://www.dustjs.com) - JavaScript templating engine, designed to run asynchronously on both the server and the browser.
 
 ### HTTP Requests
 - [aja](http://krampstudio.github.io/aja.js/) - Asynchronous JavaScript and JSON(P)
@@ -211,6 +214,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [octicons](https://octicons.github.com/) - Github icons
 - [the nounproject](http://thenounproject.com/) - Icon search
 - [weloveiconfonts](http://weloveiconfonts.com/) - A free & open source icon fonts hosting service
+- [icomoon] (https://icomoon.io) - Custom built and crisp icon fonts, done right.
 
 ### Colors
 - [bootflat color picker](http://bootflat.github.io/color-picker.html) - Color picker for flat design
@@ -224,6 +228,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [Colors](http://clrs.cc/) - Smarter Default colors on the web
 - [uiGradients](http://uigradients.com/) - A handpicked collection of beautiful colour gradients for design and code
 - [vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image
+- [Adobe Color CC] (https://color.adobe.com/create/color-wheel/) - Color wheel and color scheme selector
 
 ### Databases
 - [ForerunnerDB](http://www.forerunnerdb.com/) - Database with mongo-like query language and data-binding support
