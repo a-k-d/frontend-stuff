@@ -131,6 +131,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [smart underline](https://eager.io/showcase/SmartUnderline/) - Descender-aware underlines for every browser
 - [typeahead.js](http://twitter.github.com/typeahead.js) - Foundation for building robust typeaheads
 - [Typeplate](http://typeplate.com/) - A typographic starter kit
+- [Type.js](http://typejs.org/) - Typography tools for better web type.
 
 ### Video
 - [Fitvid](http://fitvidsjs.com/) - Responsive videos
